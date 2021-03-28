@@ -1,0 +1,7 @@
+class Anime
+{
+	pubic static void main(String cp[])
+	{
+		s.o.pln();
+	}
+}
